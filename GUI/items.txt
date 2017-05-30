@@ -1,0 +1,10 @@
+A 10 Hot Dog
+B 25 Exotic Fruit
+C 100 Toaster
+D 9 Taco
+E 50 Shoes
+F 3 Candy Bar
+G 200 Monitor
+H 250 Phone
+I 35 Lamp
+J 99 Blender
