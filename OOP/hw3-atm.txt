@@ -1,0 +1,47 @@
+Testing account class...
+Insufficient fund!!!
+Testing ATM...
+Enter an id: 2
+
+Main menu
+1: check balance
+2: withdraw
+3: deposit
+4: exit
+Enter a choice: 1
+The balance is 100.0
+
+Main menu
+1: check balance
+2: withdraw
+3: deposit
+4: exit
+Enter a choice: 3
+Enter an amount to deposit: 20
+
+Main menu
+1: check balance
+2: withdraw
+3: deposit
+4: exit
+Enter a choice: 2
+Enter an amount to withdraw: 10
+
+Main menu
+1: check balance
+2: withdraw
+3: deposit
+4: exit
+Enter a choice: 1
+The balance is 110.0
+
+Main menu
+1: check balance
+2: withdraw
+3: deposit
+4: exit
+Enter a choice: 4
+
+Testing extra accounts...
+id: 1123 date: Thu Mar 02 20:09:31 EST 2017 balance: $20,000.00 monthly interest rate: .42
+id: 1124 date: Thu Mar 02 20:09:31 EST 2017 balance: $200.00 monthly interest rate: .42

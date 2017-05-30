@@ -1,0 +1,37 @@
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 12.0
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 11.976539567003485
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 10.825317547305483
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 12.566370614359172
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 28.274333882308138
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 38.48451000647496
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 20.0
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 15.0
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 18.0
+
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 10.825317547305483
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 11.976539567003485
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 12.0
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 12.566370614359172
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 15.0
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 18.0
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 20.0
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 28.274333882308138
+created on Fri Mar 03 00:36:32 EST 2017
+color: white and filled: false area: 38.48451000647496
